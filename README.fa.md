@@ -16,6 +16,8 @@
 
 **🌐 [English](README.md) · فارسی**
 
+**netMon · [NetMon Readme](INTEGRATION.md)**
+
 *ساخته‌شده با ❤️ توسط **ArrowDeveloper***
 
 </div>
