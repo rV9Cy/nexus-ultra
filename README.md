@@ -15,7 +15,8 @@
 [Quick Start](#quick-start) · [Commands](#voice--text-commands) · [Tips](#tips--notes) · [Telegram](https://t.me/ArrowDeveloper) · [Donate](https://donate.sudoshz.ir/u/spidey_team)
 
 **🌐 English · [فارسی](README.fa.md)**
-**netMon · (INTEGRATION.md)**
+
+**netMon · [NetMon Readme](INTEGRATION.md)**
 
 *Made with ❤️ by **ArrowDeveloper***
 
